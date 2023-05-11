@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @illuminaters3
-- 🌱 I’m currently learning Luau
-- 📫 Globber numberone#3853
+- 👋 Hi, I’m @G-numberone
+- 🌱 I’m currently learning Rust & Swift
+- 📫 Discord: Globber numberone#3853
