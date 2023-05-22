@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @G-numberone
-- 🌱 I’m currently learning Rust & Swift
+- 🌱 I’m currently learning Rust
 - 📫 Discord: Globber numberone#3853
