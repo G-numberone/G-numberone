@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @numberone34
+- 👋 Hi, I’m @numberone72
 - 🌱 I’m currently learning Rust
 - 📫 Discord: Globber numberone#3853
