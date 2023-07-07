@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @numberone72
-- 🌱 I’m currently a high school student
-- 📫 Discord: Globber numberone#3853
+- 🌱 High school student
+- 📫 Discord: numberone72
